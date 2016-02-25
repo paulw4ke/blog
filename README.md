@@ -6,5 +6,5 @@ To create new pages, create an .ejs file with the name that you want to use insi
 Set the view up in this format to make use of ejs templating.
 
 <% include partials/header %> 
-  /*Add your html page content here*/
+  //Add your html page content here
 <% include partials/footer %> 
